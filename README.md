@@ -1,1 +1,2 @@
-# Python Loop Practice\n\nThis repo contains a Jupyter Notebook where I solve 10 for-loop problems to master Python looping fundamentals.
+# Python Loop Practice
+This repo contains a Jupyter Notebook where I solve 10 for-loop problems to master Python looping fundamentals.
